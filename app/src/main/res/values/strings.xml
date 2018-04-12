@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">XYLaser</string>
+    <string name="cut">Cut</string>
+    <string name="text_name">TextView</string>
+    <string name="current_state">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_cut">cut</string>
+    <string name="author">Joshua Barker s3380670</string>
+    <string name="startup">Welcome to XY Laser. Press an arrow to begin then select cut</string>
+    <string name="n_constraint">N Constraint</string>
+    <string name="e_constraint">E Constraint</string>
+    <string name="w_constraint">W Constraint</string>
+    <string name="s_contstraint">S Contstraint</string>
+    <string name="speed">Speed</string>
+</resources>
